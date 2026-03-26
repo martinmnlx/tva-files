@@ -4,4 +4,5 @@
 
 body {
   font-family: "Courier Prime", monospace;
+  background-color: var(--color-taupe-900);
 }
